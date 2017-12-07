@@ -6,8 +6,10 @@ This is a header-only library for C and C++ to easily control string color and s
 
 ### Setup
 
+Copy the header file `sgr_macro.h` to your project, and write:
+
 ```c
-#include <sgr_macro.h>
+#include "sgr_macro.h"
 ```
 
 ### Code
